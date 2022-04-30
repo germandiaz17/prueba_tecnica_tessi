@@ -1,0 +1,44 @@
+[
+    {
+        "name" : "german",
+        "email" : "german@prueba.com",
+        "position" : "Data Analist",
+        "salary": 1270000,
+        "others": {
+            "name": "german",
+            "email": "german@prueba.com",
+            "phone" : "3208715459",
+            "addres" : "cra 6 a este # 30-21",
+            "position" : "Data Analist",
+            "salary" : 1270000
+            }
+    },
+    {
+        "name" : "german",
+        "email" : "german@prueba.com",
+        "position" : "Data Analist",
+        "salary": 1270000,
+        "others": {
+            "name": "german",
+            "email": "german@prueba.com",
+            "phone" : "3208715459",
+            "addres" : "cra 6 a este # 30-21",
+            "position" : "Data Analist",
+            "salary" : 1270000
+            }
+    },
+    {
+        "name" : "german",
+        "email" : "german@prueba.com",
+        "position" : "Data Analist",
+        "salary": 1270000,
+        "others": {
+            "name": "german",
+            "email": "german@prueba.com",
+            "phone" : "3208715459",
+            "addres" : "cra 6 a este # 30-21",
+            "position" : "Data Analist",
+            "salary" : 1270000
+            }
+    }
+]
